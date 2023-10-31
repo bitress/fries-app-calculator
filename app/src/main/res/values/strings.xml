@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Menu App</string>
+    <string name="Fries1">Regular Fries</string>
+    <string name="Fries2">Twister Fries</string>
+    <string name="Fries3">Crisscross Fries</string>
+    <string name="txtPrice1">Php 30.00</string>
+    <string name="txtPrice2">Php 50.00</string>
+    <string name="txtPrice3">Php 70.00</string>
+    <string name="sizes">Sizes</string>
+    <string name="head">Choose Your Fries</string>
+    <string name="add1">Add Php 0.00</string>
+    <string name="add2">Add Php 20.00</string>
+    <string name="add3">Add Php 40.00</string>
+    <string name="add4">Add Php 5.00</string>
+    <string name="add6">Add Php 10.00</string>
+    <string name="add7">Add Php 20.00</string>
+    <string name="add8">Add Php 20.00</string>
+    <string name="add9">Add Php 20.00</string>
+    <string name="add10">Add Php 20.00</string>
+    <string name="add_to_basket">Add to Basket</string>
+    <string name="add_to_basket1">Add to Basket</string>
+    <string name="large">Large</string>
+    <string name="flavors">Flavors</string>
+    <string name="total">Grandtotal:</string>
+</resources>
